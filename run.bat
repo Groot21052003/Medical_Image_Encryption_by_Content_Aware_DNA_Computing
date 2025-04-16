@@ -1,0 +1,2 @@
+python MedicalImage.py
+pause
